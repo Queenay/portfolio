@@ -9,7 +9,7 @@ sections:
       businesses.
     actions:
       - type: Button
-        label: Get started
+        label: Hire Me
         url: /
         icon: arrowRight
         iconPosition: right
