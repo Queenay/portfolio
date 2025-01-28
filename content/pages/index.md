@@ -26,6 +26,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+      subtitle:
+        textAlign: right
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
