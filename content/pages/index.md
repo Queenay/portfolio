@@ -27,8 +27,12 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
     badge:
       type: Badge
       label: This is a badge
