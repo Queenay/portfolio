@@ -27,7 +27,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pl-1
+          - pl-0
           - pr-2
       subtitle:
         textAlign: right
