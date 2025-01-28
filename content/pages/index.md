@@ -33,9 +33,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: >-
-        /images/Orange and Grey Modern Minimalist Creative Portfolio
-        Presentation.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
