@@ -35,10 +35,6 @@ sections:
       styles:
         self:
           borderRadius: medium
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
