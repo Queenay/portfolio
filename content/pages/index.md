@@ -33,6 +33,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/1000px x 600 nayna bg.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
