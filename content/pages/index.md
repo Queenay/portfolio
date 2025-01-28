@@ -2,43 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    subtitle: About Me
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Hire Me
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Projects
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pl-0
-          - pr-0
-      subtitle:
-        textAlign: right
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/1000px x 600 nayna bg.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
