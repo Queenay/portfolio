@@ -21,16 +21,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    media:
-      type: ImageBlock
-      url: >-
-        /images/Orange and Grey Modern Minimalist Creative Portfolio
-        Presentation.png
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
     colors: bg-light-fg-dark
     styles:
       self:
