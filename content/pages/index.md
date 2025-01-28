@@ -26,6 +26,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pl-1
       subtitle:
         textAlign: right
     backgroundImage:
