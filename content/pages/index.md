@@ -27,7 +27,9 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: >-
+        /images/Orange and Grey Modern Minimalist Creative Portfolio
+        Presentation.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
