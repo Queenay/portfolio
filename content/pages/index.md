@@ -28,7 +28,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pl-0
-          - pr-2
+          - pr-0
       subtitle:
         textAlign: right
     backgroundImage:
